@@ -31,3 +31,7 @@ To build and run the project, follow these steps:
 * Run the project: mvn spring-boot:run 
 
 -> The application will be available at http://localhost:8080.
+
+![JWT and Role Based Image](https://miro.medium.com/v2/resize:fit:1358/1*ld1b05OKw3RdBPZQL2fGVA.png)
+
+
